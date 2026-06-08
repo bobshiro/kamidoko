@@ -5,7 +5,7 @@ iOSアプリ「紙マップでどこ？」のプライバシーポリシーを G
 
 ## 公開手順
 
-1. GitHub で新しいリポジトリを作成します（例: `chizudoko-privacy`、Public）。
+1. GitHub で新しいリポジトリを作成します（例: `kamidoko-privacy`、Public）。
 2. このフォルダの中身（`_config.yml` / `index.md` / `README.md`）をリポジトリにアップロードします。
 3. リポジトリの **Settings → Pages** で、Source を「Deploy from a branch」、Branch を `main` / `(root)` に設定します。
 4. 数分後、`https://<ユーザー名>.github.io/<リポジトリ名>/` で公開されます。

@@ -5,8 +5,8 @@ theme: jekyll-theme-cayman
 lang: ja
 
 # ▼ リポジトリ作成後、自分の GitHub Pages の URL に合わせて差し替えてください。
-#   例）GitHubユーザー名が bobshiro、リポジトリ名が chizudoko-privacy の場合：
+#   例）GitHubユーザー名が bobshiro、リポジトリ名が kamidoko-privacy の場合：
 #       url:     https://bobshiro.github.io
-#       baseurl: /chizudoko-privacy
+#       baseurl: /kamidoko-privacy
 url: https://bobshiro.github.io
-baseurl: /chizudoko-privacy
+baseurl: /kamidoko-privacy
