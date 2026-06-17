@@ -12,7 +12,7 @@ iOSアプリ「紙マップでどこ？」のプライバシーポリシーを G
 
 ## 公開前に差し替えるところ
 
-- **連絡先メール**: `index.md` の2箇所（「1. 提供者」と「12. お問い合わせ」）にある `your-address@example.com`
+- **連絡先メール**: ~~`index.md` の2箇所（「1. 提供者」と「12. お問い合わせ」）にある `your-address@example.com`~~ → 2026-06-17 `kamidoko@biz.nifty.jp` に差し替え済
 - **URL**: `_config.yml` の `url` / `baseurl` を、作成したリポジトリに合わせて変更
 
 ## アプリ側の最後の作業
