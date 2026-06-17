@@ -182,6 +182,29 @@ h3 + p {
   }
 }
 
+// 注意書きカード（対応できない地図についての注意など）
+.callout-note {
+  background: #fdf4e3;
+  border: 1px solid #e8c98e;
+  border-radius: 8px;
+  padding: 14px 18px;
+  margin: 16px 0;
+  font-size: 0.95em;
+  color: #5b4a3a;
+
+  strong {
+    color: #b65406;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  a {
+    color: #d35400;
+  }
+}
+
 // App Store ダウンロードカード
 .appstore-card {
   background: #4a3a2c;
